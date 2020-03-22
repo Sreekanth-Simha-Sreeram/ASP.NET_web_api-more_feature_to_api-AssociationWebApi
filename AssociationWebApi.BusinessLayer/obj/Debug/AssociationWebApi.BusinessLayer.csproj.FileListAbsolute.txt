@@ -1,0 +1,5 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AssociationWebApi\AssociationWebApi.BusinessLayer\bin\Debug\AssociationWebApi.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AssociationWebApi\AssociationWebApi.BusinessLayer\bin\Debug\AssociationWebApi.BusinessLayer.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AssociationWebApi\AssociationWebApi.BusinessLayer\obj\Debug\AssociationWebApi.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AssociationWebApi\AssociationWebApi.BusinessLayer\obj\Debug\AssociationWebApi.BusinessLayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AssociationWebApi\AssociationWebApi.BusinessLayer\obj\Debug\AssociationWebApi.BusinessLayer.pdb
